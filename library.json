@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-pir-t-watch",
+  "title": "pir-t-watch",
+  "keywords": "pir-t-watch, esp32, esp8266, arduino",
+  "description": "pir-t-watch plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-pir-t-watch/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-pir-t-watch/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
