@@ -1,8 +1,9 @@
 {
   module.exports = [
     {
-        name: "",
+        name: "PIR of T-Watch",
         blocks: [
+          'pir_setup'
         ]
     }
   ];
